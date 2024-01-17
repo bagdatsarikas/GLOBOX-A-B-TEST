@@ -1,3 +1,10 @@
+-- Tables and columns information 
+
+-- users table ( id, country, gender) 
+	
+-- groups table ( uid , group, join_dt, device )
+
+-- activity table (uid, dt, device, spent)
 
 
 
@@ -9,7 +16,7 @@ FROM
 		users;
 
 
--- TOTAL USERS FOR EACH CONTROL(A) AND TEST GROUPS(B) 
+-- TOTAL USERS FOR EACH GROUP CONTROL(A) AND TEST(B) 
 
 
 SELECT
@@ -28,7 +35,7 @@ SELECT
     (SELECT COUNT(DISTINCT uid) FROM  Activity) AS not_converted_user_count;
 
 
--- CONVERSION PERCENTAGE PER USERS 
+-- CONVERSION PERCENTAGE PER USER 
 
 SELECT 
 			(COUNT(DISTINCT activity.uid)*100) / 
@@ -39,7 +46,7 @@ LEFT JOIN
 			activity ON users.id = activity.uid;
       
 
--- CONVERTED USERS PER GROUPS CONTROL AND TEST 
+-- CONVERTED USERS PER GROUPS CONTRO(A)L AND TEST(B) 
 
 SELECT 
 		g.group,
@@ -66,7 +73,7 @@ WHERE g.uid NOT IN (
        from activity)
 group by 1;
 
--- CONVERSION RATE FOR PER GROUP CONTROL AND TEST 
+-- CONVERSION RATE FOR PER  CONTROL(A) AND TEST(B) GROUP 
 
 
 
