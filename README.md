@@ -1,4 +1,5 @@
 # GLOBOX ONLINE MARKETPLACE A/B TESTING
+![Screenshot 2024-01-16 at 7 26 51 PM](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/assets/113278394/8811ab16-8881-4c83-ab5c-089adaba203c)
 
 
 PROJECT   BACKGROUND
