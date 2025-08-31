@@ -11,10 +11,11 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 ➤ Designed and ran an **A/B test** on the mobile site  
 ➤ Control Group (A): No banner | Test Group (B): Banner shown  
 ➤ Duration: Jan 25 – Feb 6, 2023 (~49,000 users)  
-➤ Metrics tracked: Conversion rate, Avg. spend, Spend per user  
+➤ Metrics tracked: Conversion rate, Avg. spend, Spend per user 
 
+---
 ### Tools & Analysis  
-## Tools & Statistical Tests  
+  
 🗄️ **[SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)** → 
    - Cleaned and aggregated raw user activity data  
 
