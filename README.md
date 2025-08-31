@@ -14,15 +14,20 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 ➤ Metrics tracked: Conversion rate, Avg. spend, Spend per user  
 
 ### Tools & Analysis  
-➤ **SQL:** Cleaned and aggregated raw user activity data 
+## Tools & Statistical Tests  
+🗄️ **[SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)** → Cleaned and aggregated raw user activity data  
 
-➤ **Excel:** Performed hypothesis tests (z-test for proportions, t-test for averages) and built confidence intervals 
+📊 **[Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)** →  
+   - Conducted **z-test for proportions** (conversion rate difference)  
+   - Conducted **two-sample t-test** (average spend difference)  
+   - Built **95% confidence intervals** to interpret results  
 
-  📑 [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing) 
-  
-➤ **Tableau:** Created an interactive dashboard to compare test vs control, visualize uplift, and present findings 
+📈 **[Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)** →  
+   - Interactive dashboard comparing control vs test   
 
-  📑 [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
+📄 **[Full PDF Report](./GLOBOX%20A_B%20TEST%20PROJECT.pdf)** →  
+   - Complete project background, methodology, detailed analysis, and recommendations  
+   - Includes step-by-step hypothesis testing and confidence interval calculations  
 
 ---
 
