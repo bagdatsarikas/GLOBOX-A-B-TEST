@@ -8,7 +8,7 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ---
 
-## What We Did  
+## 🔍 What We Did  
 ➡️ Designed an A/B test on the **mobile site**  
 ➡️ **Control Group (A):** No banner  
 ➡️ **Test Group (B):** Food & Drink banner shown  
@@ -18,7 +18,7 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ---
 
-## 🔹 Key Results 🔹
+## 📈 Key Results �
 - **Conversion Rate**  
   - Control: 3.92%  
   - Test: 4.63%  
@@ -29,11 +29,11 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
   - Test: $3.39  
   - **No significant difference (p = 0.94)**  
 
-**Takeaway:** The banner **increased the number of users who converted**, but it **did not affect spending** once they converted.
+** 💡 Takeaway:** The banner **increased the number of users who converted**, but it **did not affect spending** once they converted.
 
 ---
 
-## Outcome & Recommendation  
+## 💰 Outcome & Recommendation  
 - **Accomplishment:** Proved that a **simple design change** can deliver measurable business impact.  
 - **Business value:** Higher conversions at low implementation cost make the banner a strong candidate for rollout.  
 - **Next step:** Extend testing window to confirm results across more time periods.
