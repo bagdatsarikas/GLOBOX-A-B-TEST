@@ -7,14 +7,16 @@ GloBox, known for boutique fashion and decor, expanded into **Food & Drink**.
 We wanted to understand if adding a **mobile banner** could boost engagement and conversions for this new category.
 
 ---
-
 ## What We Did  
-➡ Designed an A/B test on the **mobile site**  
-➡  **Control Group (A):** No banner  
-➡  **Test Group (B):** Food & Drink banner shown  
-➡  Ran the test from **Jan 25 – Feb 6, 2023** with ~49,000 users  
-➡  Measured **conversion rate, average spend, and spend per user**  
-➡  Analyzed data with **SQL + Excel**, visualized findings in **Tableau**
+➤ Designed and ran an **A/B test** on the mobile site  
+➤ Control Group (A): No banner | Test Group (B): Banner shown  
+➤ Duration: Jan 25 – Feb 6, 2023 (~49,000 users)  
+➤ Metrics tracked: Conversion rate, Avg. spend, Spend per user  
+
+### Tools & Analysis  
+➤ **SQL:** Cleaned and aggregated raw user activity data  
+➤ **Excel:** Performed hypothesis tests (z-test for proportions, t-test for averages) and built confidence intervals  
+➤ **Tableau:** Created an interactive dashboard to compare test vs control, visualize uplift, and present findings  
 
 ---
 
