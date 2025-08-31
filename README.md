@@ -8,17 +8,17 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ---
 
-## 🔍 What We Did  
-➡️ Designed an A/B test on the **mobile site**  
-➡️ **Control Group (A):** No banner  
-➡️ **Test Group (B):** Food & Drink banner shown  
-➡️ Ran the test from **Jan 25 – Feb 6, 2023** with ~49,000 users  
-➡️ Measured **conversion rate, average spend, and spend per user**  
-➡️ Analyzed data with **SQL + Excel**, visualized findings in **Tableau**
+## What We Did  
+➡ Designed an A/B test on the **mobile site**  
+➡  **Control Group (A):** No banner  
+➡  **Test Group (B):** Food & Drink banner shown  
+➡  Ran the test from **Jan 25 – Feb 6, 2023** with ~49,000 users  
+➡  Measured **conversion rate, average spend, and spend per user**  
+➡  Analyzed data with **SQL + Excel**, visualized findings in **Tableau**
 
 ---
 
-## 📈 Key Results �
+## Key Results �
 - **Conversion Rate**  
   - Control: 3.92%  
   - Test: 4.63%  
