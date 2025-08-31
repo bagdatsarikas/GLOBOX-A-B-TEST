@@ -15,7 +15,8 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ### Tools & Analysis  
 ## Tools & Statistical Tests  
-🗄️ **[SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)** → Cleaned and aggregated raw user activity data  
+🗄️ **[SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)** → 
+   - Cleaned and aggregated raw user activity data  
 
 📊 **[Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)** →  
    - Conducted **z-test for proportions** (conversion rate difference)  
@@ -25,7 +26,7 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 📈 **[Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)** →  
    - Interactive dashboard comparing control vs test   
 
-📄 **[Full PDF Report](./GLOBOX%20A_B%20TEST%20PROJECT.pdf)** →  
+📄 **[Full PDF Report](https://docs.google.com/document/d/1muUg9lOKBbcEGZ_-JYDLylOqpo3AtC0PDOkwPzm9Zwk/edit?tab=t.0)** →  
    - Complete project background, methodology, detailed analysis, and recommendations  
    - Includes step-by-step hypothesis testing and confidence interval calculations  
 
