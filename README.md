@@ -1,53 +1,57 @@
-# GLOBOX ONLINE MARKETPLACE A/B TESTING
-![Screenshot 2024-01-16 at 7 26 51 PM](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/assets/113278394/8811ab16-8881-4c83-ab5c-089adaba203c)
 
 
-PROJECT   BACKGROUND
+# GLOBOX A/B Test — Food & Drink Banner
 
-GloBox, an e-commerce platform specializing in boutique fashion and decor, has recently expanded into the food and drink category. To increase awareness and engagement in this new category, the Growth team has initiated an A/B test, introducing a banner showcasing food and drink products on the mobile website.
-A/B TEST SETUP
+## Project Purpose  
+GloBox, known for boutique fashion and decor, expanded into **Food & Drink**.  
+We wanted to understand if adding a **mobile banner** could boost engagement and conversions for this new category.
 
-Data Collection: Purchasing activity data and personal data are collected for user and marketing research.  
+# GLOBOX A/B Test — Food & Drink Banner
 
-Test duration: The A/B  testing was conducted from January 25th, 2023 , to February 6th 2023.
+# GLOBOX A/B Test — Food & Drink Banner
 
-Test Groups:
+## Project Purpose  
+GloBox, known for boutique fashion and decor, expanded into **Food & Drink**.  
+We wanted to understand if adding a **mobile banner** could boost engagement and conversions for this new category.
 
-Control Group 
-Test Group
+---
 
-This group encountered the original, unchanged version of the GloBox mobile website.
-There were no additional banners or prompts introduced to this version. It represents the ongoing standard experience users are familiar with.
+## What We Did  
+- Designed an A/B test on the **mobile site**  
+- **Control Group (A):** No banner  
+- **Test Group (B):** Food & Drink banner shown  
+- Ran the test from **Jan 25 – Feb 6, 2023** with ~49,000 users  
+- Measured **conversion rate, average spend, and spend per user**  
+- Analyzed data with **SQL + Excel**, visualized findings in **Tableau**
 
-Test Group users were exposed to a modified version of the GloBox mobile website.
-The significant change was the addition of a banner focusing on the food and drink category.
+---
 
+## Key Results  
+- **Conversion Rate**  
+  - Control: 3.92%  
+  - Test: 4.63%  
+  - **+0.71 percentage points**, *p = 0.00011 → significant increase*  
 
-Hypothesis  & Confidence interval:
+- **Average Spend per User**  
+  - Control: $3.37  
+  - Test: $3.39  
+  - **No significant difference (p = 0.94)**  
 
-Null Hypothesis
-Alternative Hypothesis
+**Takeaway:** The banner **increased the number of users who converted**, but it **did not affect spending** once they converted.
 
-The introduction of a food and drink banner on the GloBox mobile website will have no significant effect on user engagement, conversion rate, average spending, or overall revenue generation for the food and drink category.
+---
 
-Introducing a banner dedicated to the food and drink category on the GloBox mobile website will lead to a significant increase in:
-* Conversion rate
-* Average Spent
-* Spent Per User
+## Outcome & Recommendation  
+- **Accomplishment:** Proved that a **simple design change** can deliver measurable business impact.  
+- **Business value:** Higher conversions at low implementation cost make the banner a strong candidate for rollout.  
+- **Next step:** Extend testing window to confirm results across more time periods.
 
+---
 
-Metrics To Track: 
+## Artifacts  
+- [SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)  
+- [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)  
+- [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
 
-Conversion Rate
-The percentage of users who, after seeing the banner (Test Group B), end up making a purchase from the food and drink category
-Average Spent
-By comparing the average spend of users exposed to the food and drink banner (Test Group B) with those not exposed (Control Group A), we can determine if the banner only encourages purchases.
-Spent Per User
-This metric provides insight into the buying behavior of individual users.
-
-
-Statistical Significance Threshold: The level of statistical significance we will use (e.g., p-value threshold) typically, a threshold of 0.05 (5%).
-
-
-
+---
 
