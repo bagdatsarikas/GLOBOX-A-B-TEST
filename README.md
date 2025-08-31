@@ -15,8 +15,13 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ### Tools & Analysis  
 ➤ **SQL:** Cleaned and aggregated raw user activity data  
-➤ **Excel:** Performed hypothesis tests (z-test for proportions, t-test for averages) and built confidence intervals  
-➤ **Tableau:** Created an interactive dashboard to compare test vs control, visualize uplift, and present findings  
+➤ **Excel:** Performed hypothesis tests (z-test for proportions, t-test for averages) and built confidence intervals 
+
+  📑 [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing) 
+  
+➤ **Tableau:** Created an interactive dashboard to compare test vs control, visualize uplift, and present findings 
+
+  📑 [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
 
 ---
 
@@ -44,7 +49,7 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 
 ## Artifacts  
 📑 [SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)  
-📑 [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)  
+ 
 📑 [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
 
 
