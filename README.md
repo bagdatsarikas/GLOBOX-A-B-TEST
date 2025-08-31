@@ -41,9 +41,10 @@ We wanted to understand if adding a **mobile banner** could boost engagement and
 ---
 
 ## Artifacts  
-- [SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)  
-- [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)  
-- [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
+📑 [SQL Exploration](https://github.com/bagdatsarikas/GLOBOX-A-B-TEST/blob/main/globox.sql)  
+📑 [Excel Report](https://docs.google.com/spreadsheets/d/1e8rXeXXp22JJjLDBI9JC16uBNbAl4iaupVPovfFesZs/edit?usp=sharing)  
+📑 [Tableau Dashboard](https://public.tableau.com/app/profile/bagdat.sarikas/viz/globax-abtesting/Dashboard3)
+
 
 ---
 
